@@ -1,0 +1,2 @@
+GitPython==3.1.44
+beautifulsoup4==4.10.0
